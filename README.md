@@ -1,6 +1,6 @@
 # Export Power BI activity events associated with a specific workspace
 
-The script will prompt for credential using the browser. Many othe authentication methods are supported by the DefaultAzureCredential class. Refer to the Azure Identity [documentation](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/identity/azure-identity#defaultazurecredential)
+The script will prompt for credential using the browser. Many other authentication methods are supported by the DefaultAzureCredential class. Refer to the Azure Identity [documentation](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/identity/azure-identity#defaultazurecredential)
 
 Install the Azure Identity package:
 ```
